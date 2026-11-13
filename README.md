@@ -31,3 +31,47 @@ Anticipate uncertain maintenance workloads.
 Evaluate staffing capacity and resource allocation.
 Understand the financial impact of overtime.
 Make more informed operational planning decisions.
+
+Results & Key Findings
+
+The Monte Carlo simulation was conducted across 1,000 trials to evaluate weekly maintenance costs and determine an appropriate staffing level.
+
+1. Weekly Cost Analysis
+
+Using three maintenance employees, the simulation produced the following results:
+
+Expected weekly operating cost: $4,524.50
+
+Standard deviation: $848.73
+
+95% confidence interval for the mean weekly cost: $4,471.89 – $4,577.10
+
+These results demonstrate how simulation can estimate expected operating expenses while accounting for uncertainty in maintenance demand.
+
+2. Staffing Optimization
+
+The simulation evaluated staffing levels ranging from 1 to 10 employees.
+
+The results identified four employees as the lowest-cost staffing option, with an estimated average weekly operating cost of $4,132.12.
+
+This staffing level provides 160 regular labor hours per week, helping balance workforce capacity against maintenance demand.
+
+3. Business Insights
+
+Based on the simulation results:
+
+Insufficient staffing can increase overtime expenses.
+
+Increasing staffing does not necessarily reduce total operating costs.
+
+Staffing decisions should balance regular labor expenses against potential overtime costs.
+
+Simulation provides a quantitative approach to evaluating workforce planning decisions.
+
+Conclusion
+
+This project demonstrates how Python and Monte Carlo simulation can be applied to real-world operational planning problems.
+
+By modeling uncertain maintenance demand and comparing different staffing scenarios, the analysis identifies a four-employee staffing level as the lowest-cost option among the scenarios tested.
+
+The project highlights the value of data analytics in supporting workforce allocation, cost estimation, and business decision-making.
